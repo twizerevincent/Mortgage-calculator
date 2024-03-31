@@ -13,7 +13,7 @@ This is a simple mortgage calculator program written in Java. It allows users to
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
 
    ```bash
-   git clone https://github.com/your-username/mortgage-calculator.git
+   git clone https://github.com/twizerevincent/mortgage-calculator.git
 
 1. Compile the Code: Navigate to the project directory and compile the Java code.
 
